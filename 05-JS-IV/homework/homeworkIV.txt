@@ -1,0 +1,53 @@
+HOMEWORK IV
+-----------
+
+EJEMPLO DE REFERENCIA
+---------------------
+
+
+var seba = {
+nombre  : Sebastian, 
+edad: 33,
+lugarDeResidencia: Entre Rios,
+saludo: funcion () {
+console.log ("Hola Sebita !" )
+  }
+}
+
+
+
+
+
+
+1. OBJETOS
+Los objetos son variables a las que se le asignan propiedades. No deja de ser un arreglo pero contiene caracTeristicas de la variable.
+En el ejemplo el objeto es seba.
+
+2. PROPIEDADES
+Las propiedades de un objeto son valores asignados al mismo. En el caso del ejmplo las propiedades son [nombre, edad, lugarDeResidencia]
+Las propiedades cuando se las invoca con brackets [] deben ser escritas como una string.
+Las propiedades tienen asignado un valor que puede ser cualquier tipo de dato ya sea numerico, string, booleano o incluso "null" o undefined
+
+3.METODO
+Un metodo es una funcion encerrada dentro de un objeto. En el ejemplo el saludo es un metodo que devuelve "Hola Sebita ! ".
+
+4.BUCLE FOR... IN 
+el bucle fot in opera de la misma manera que FOR pero le indica mediante in que esta trabajando dentro de un objeto.
+
+5.NOTACION DE PUNTOS VS NOTACION DE CORCHETES
+La notacion de puntos y la de corchetes son para referirse a las propiedades de un objeto. En algunos casos se pueden utilizar ambas.
+En el ejemplo si yo quiero referirme al nombre de seba podria poner:
+seba["nombre"]
+      o 
+seba.nombre
+En el caso de los corchetes o bracket notation debo tratar al nombre de la propiedad como si fuera una string.4
+MUY IMPORTANTE
+CUANDO LA PROPIEDAD ES UN ARGUMENTO DEBEMOS USAR CORCHETES(BRACKET NOTATION)
+
+
+
+
+
+
+
+SEBASTIAN PASTORENZI
