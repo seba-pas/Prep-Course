@@ -1,0 +1,15 @@
+HOMEWORK V
+----------
+
+
+  1.PROTOTYPE 
+  -----------
+ 			 Prototype es una función constructora "raiz o madre" de un objeto que hayamos creado. Es la matríz que se 
+utilizará al crear un nuevo objeto . 
+                   Al modificarla o alterarla estariamos alterando a todos los objetos que se desprenden 
+de ella.
+
+
+  2.FUNCION CONSTRUCTORA 
+  ----------------------
+                   Función constructor o costructores de clase son las funciones que utilizamos para declarar nuevos objetos.
