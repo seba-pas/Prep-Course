@@ -1,0 +1,8 @@
+HOMEWORK VI
+-----------
+
+
+CALLBACK
+--------
+         Cuando una funcion es pasada como argumento de otra funcion se la denomina callback. Es decir esta funcion ya fue 
+declarada en una funcion y lo que hacemos es invocarla o llamarla . A esto se lo llama callback.
